@@ -28,7 +28,7 @@ class Truck(val make: String, val model: String, val towingCapacity: Int){
 }*//*
 
 
-fun main() {
+fun kotlin_basics.main() {
     val car = Car("Toyoto", "Camry", "red")
     println(car.make)
     println(car.model)
